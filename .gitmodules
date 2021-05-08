@@ -1,0 +1,3 @@
+[submodule "spring-security-in-memory-auth"]
+	path = spring-security-in-memory-auth
+	url = https://github.com/jaspreetjhass/spring-security-in-memory-auth.git
