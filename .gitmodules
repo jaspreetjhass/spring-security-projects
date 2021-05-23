@@ -1,3 +1,9 @@
 [submodule "spring-security-in-memory-auth"]
 	path = spring-security-in-memory-auth
 	url = https://github.com/jaspreetjhass/spring-security-in-memory-auth.git
+[submodule "spring-security-jpa-auth"]
+	path = spring-security-jpa-auth
+	url = https://github.com/jaspreetjhass/spring-security-jpa-auth.git
+[submodule "spring-security-jdbc-auth"]
+	path = spring-security-jdbc-auth
+	url = https://github.com/jaspreetjhass/spring-security-jdbc-auth.git
